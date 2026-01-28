@@ -15,8 +15,8 @@ A simple, interactive color generator that creates random hex colors and automat
 
 ## Screenshots
 
-![Color Generator Screenshot](screenshot.png)
-*Click to generate a new random color*
+<img width="2865" height="1589" alt="image" src="https://github.com/user-attachments/assets/ea8edc6e-35d8-4252-b774-e0ba11f7728d" />
+
 
 ## Technologies Used
 
